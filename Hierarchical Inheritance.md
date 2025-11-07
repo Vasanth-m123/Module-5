@@ -116,4 +116,3 @@ Thus the program to get the employee and doctor details and display them using h
 (Output Screenshot)  
 
 
-### RESULT
